@@ -25,12 +25,8 @@
     "typescript",
     "api"
   ],
-  "author": "Waldemar Neto",
+  "author": "Rafael Lima",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/waldemarnt/node-typescript-api/issues"
-  },
-  "homepage": "https://github.com/waldemarnt/node-typescript-api#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "@overnightjs/core": "^1.7.4",
